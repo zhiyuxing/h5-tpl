@@ -1,0 +1,15 @@
+.page1{
+    background: url(../img/1.jpg) no-repeat;
+    background-size:100% 100%;
+}
+.page1 .an1{
+    animation: bounceIn 2s ease both;
+}
+
+.page2{
+    background: url(../img/1.jpg) no-repeat;
+    background-size:100% 100%;
+}
+.page2 .an1{
+    animation: bounceIn 2s ease both;
+}
